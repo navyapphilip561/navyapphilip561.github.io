@@ -1,7 +1,8 @@
 function sayHello() {
-    alert("Hello  ");
+    alert("Hello ");
 }
 
 console.log("Website loaded successfully 🚀");
+
 
 
