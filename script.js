@@ -1,6 +1,7 @@
 function sayHello() {
-    alert("Hello Navya 👋");
+    alert("Hello  ");
 }
 
 console.log("Website loaded successfully 🚀");
+
 
